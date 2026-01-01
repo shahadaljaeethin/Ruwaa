@@ -55,37 +55,20 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 
 ---
 
-##  أعضاء الفريق
-- **عمار يعقوب**
 - **شهد محمد الجعيثن**
-- **روان بدر برناوي**
 
 
 
 
 | الاسم | قام |
 |------|-----|
-| عمار | payment logic |
-| عمار | subscribe |
-| عمار | gift subscription |
-| عمار | signup |
-| عمار | JWT set up |
-| عمار | login |
-| عمار | send email at review submission |
-| عمار | send email at review rejection |
-| عمار | create chat |
-| عمار | send message |
-| عمار | display chat |
-| عمار | display profile |
-| عمار | add category |
-| عمار | Auth CRUD operations |
-| عمار | Customer CRUD operations |
-| عمار | Expert CRUD operations |
-| عمار | category CRUD operations |
-| عمار | application deployment |
-| عمار | database deployment |
-| عمار | CreateTemplate – AI |
-| شهد | post CRUD (model, repository, controller) |
+||
+| شهد | Post CRUD (model, repository, controller) |
+| شهد | Chat CRUD (model, repository, controller) |
+| شهد |Message CRUD (model, repository, controller)  |
+| شهد | Subscription CRUD (model, repository, controller)  |
+| شهد | getExpertRateAverage |
+| شهد | subscriptionEarning |
 | شهد | ReviewMyWork – AI |
 | شهد | ReviewAssistance – AI |
 | شهد | Email Integration – API |
@@ -98,17 +81,6 @@ https://www.canva.com/design/DAG7YjxyTNo/OpqC8TO_he5w_xoKvDo0JA/edit?utm_content
 | شهد | View Post |
 | شهد | Figma Post Flow |
 | شهد | Figma Admin Flow |
+| شهد | Figma expert menu / dashboard |
 | شهد | Figma Pages Improvement |
-| روان | review CRUD (model, repository, controller, service) |
-| روان | analyzeCustomerSkills – AI |
-| روان | Moyasar Integration – API |
-| روان | OpenAI Integration – API |
-| روان | getExpertByCategory |
-| روان | applyDiscount |
-| روان | Accept / Reject / Reject all reviews |
-| روان | getPendingReviews |
-| روان | getReviewsRequest |
-| روان | getSentRequests |
-| روان | getCompletedReviewsByPost |
-| روان | Use case diagram |
-| روان | JUnit testing |
+| شهد | JUnit testing |
